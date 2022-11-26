@@ -5,6 +5,9 @@ public class Main {
         Printer redprinter = new RedPrinter();
         Printer uaprinter = new YellowBluePrinter();
 
+
+
+
         redprinter.print("red text");
 
         uaprinter.print("two colors text");
