@@ -1,4 +1,4 @@
-package task3_6;
+package Inheritance.task3_6;
 
 public class Printer {
     String value;

@@ -1,4 +1,4 @@
-package task3_4;
+package Inheritance.task3_4;
 
 public class ExpertDocumentWorker extends ProDocumentWorker{
     @Override

@@ -1,4 +1,4 @@
-package task3_6;
+package Inheritance.task3_6;
 
 public class YellowBluePrinter extends Printer {
     public static final String ANSI_BLUE = "\u001B[34m";

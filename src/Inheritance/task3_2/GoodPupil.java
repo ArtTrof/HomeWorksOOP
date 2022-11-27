@@ -1,4 +1,4 @@
-package task3_2;
+package Inheritance.task3_2;
 
 public class GoodPupil extends Pupil{
 

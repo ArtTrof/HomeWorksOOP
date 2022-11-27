@@ -1,4 +1,4 @@
-package task3_3;
+package Inheritance.task3_3;
 
 public class Plane extends Vehicle{
     int height, passengers;
