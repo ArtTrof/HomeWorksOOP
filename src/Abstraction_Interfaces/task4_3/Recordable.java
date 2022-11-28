@@ -1,6 +1,6 @@
 package Abstraction_Interfaces.task4_3;
 
-public interface Recodable {
+public interface Recordable {
 
     void record();
 
