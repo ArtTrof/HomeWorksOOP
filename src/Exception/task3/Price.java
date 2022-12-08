@@ -1,4 +1,4 @@
-package Exeption.task3;
+package Exception.task3;
 
 public class Price {
     String product,store;

@@ -1,6 +1,5 @@
-package Exeption.task5;
+package Exception.task5;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {

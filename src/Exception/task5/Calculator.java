@@ -1,4 +1,4 @@
-package Exeption.task5;
+package Exception.task5;
 
 public class Calculator {
 

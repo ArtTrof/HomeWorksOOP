@@ -1,9 +1,7 @@
-package Exeption.task2;
+package Exception.task2;
 
-import java.sql.SQLOutput;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.time.Year;
 import java.util.*;
 
 public class Main {

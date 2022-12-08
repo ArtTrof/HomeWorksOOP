@@ -1,6 +1,5 @@
-package Exeption.task3;
+package Exception.task3;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {

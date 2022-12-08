@@ -1,8 +1,4 @@
-package Exeption.task2;
-
-import org.w3c.dom.ls.LSOutput;
-
-import java.time.Year;
+package Exception.task2;
 
 public class Worker {
 
