@@ -6,18 +6,24 @@ public class Animal {
     public boolean tail;
 
     @Override
-    public String toString(){
+    public String toString() {
         return "Name:Vasia,age:45,tail:no";
-    }
-    @Override
-    public boolean equals(Object o){
-        return false;
     }
 
     @Override
-    public int hashCode(){
+    public boolean equals(Object o) {
+        if (o == null) {
+            return false;
+        }
+        else
+            return true;
+
+    }
+
+    @Override
+    public int hashCode() {
         int res;
-        res = (hashCode()+30)/2;
+        res = (hashCode() + 30) / 2;
         return res;
     }
 }
